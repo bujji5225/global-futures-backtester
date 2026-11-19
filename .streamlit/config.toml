@@ -1,0 +1,25 @@
+[theme]
+base = "light"
+primaryColor = "#191919"
+backgroundColor = "#f7f7f6"
+secondaryBackgroundColor = "#ebebea"
+textColor = "#171717"
+borderColor = "#d8d8d6"
+showWidgetBorder = true
+
+[theme.sidebar]
+primaryColor = "#ffffff"
+backgroundColor = "#151515"
+secondaryBackgroundColor = "#292929"
+textColor = "#f4f4f4"
+borderColor = "#424242"
+
+[server]
+headless = true
+fileWatcherType = "poll"
+
+[client]
+toolbarMode = "viewer"
+
+[browser]
+gatherUsageStats = false
